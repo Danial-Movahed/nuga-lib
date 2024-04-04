@@ -1,6 +1,6 @@
 package light
 
-import "github.com/mishamyrt/nuga-lib/internal/slices"
+import "github.com/Danial-Movahed/nuga-lib/internal/slices"
 
 // State represents raw lights state.
 type State struct {

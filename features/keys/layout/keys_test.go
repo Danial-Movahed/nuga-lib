@@ -3,7 +3,7 @@ package layout_test
 import (
 	"testing"
 
-	"github.com/mishamyrt/nuga-lib/features/keys/layout"
+	"github.com/Danial-Movahed/nuga-lib/features/keys/layout"
 )
 
 func TestFindKeyName(t *testing.T) {

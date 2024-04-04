@@ -3,8 +3,8 @@ package dump_test
 import (
 	"testing"
 
-	"github.com/mishamyrt/nuga-lib/device"
-	"github.com/mishamyrt/nuga-lib/dump"
+	"github.com/Danial-Movahed/nuga-lib/device"
+	"github.com/Danial-Movahed/nuga-lib/dump"
 )
 
 func TestGetDefaults(t *testing.T) {

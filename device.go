@@ -4,9 +4,9 @@ package nuga
 import (
 	"errors"
 
-	"github.com/mishamyrt/nuga-lib/device"
-	"github.com/mishamyrt/nuga-lib/features"
-	"github.com/mishamyrt/nuga-lib/hid"
+	"github.com/Danial-Movahed/nuga-lib/device"
+	"github.com/Danial-Movahed/nuga-lib/features"
+	"github.com/Danial-Movahed/nuga-lib/hid"
 )
 
 // ErrNotSupported is returned when you try to open a keyboard that is not supported by the application

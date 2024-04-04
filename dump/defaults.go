@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/mishamyrt/nuga-lib/device"
+	"github.com/Danial-Movahed/nuga-lib/device"
 )
 
 //go:embed all:defaults

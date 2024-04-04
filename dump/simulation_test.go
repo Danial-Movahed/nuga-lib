@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/mishamyrt/nuga-lib/dump"
+	"github.com/Danial-Movahed/nuga-lib/dump"
 )
 
 func readTemplate(model string) (*dump.State, error) {

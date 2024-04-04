@@ -2,11 +2,11 @@
 package dump
 
 import (
-	"github.com/mishamyrt/nuga-lib/device"
-	"github.com/mishamyrt/nuga-lib/features/keys"
-	"github.com/mishamyrt/nuga-lib/features/light"
-	"github.com/mishamyrt/nuga-lib/hid"
-	"github.com/mishamyrt/nuga-lib/internal/slices"
+	"github.com/Danial-Movahed/nuga-lib/device"
+	"github.com/Danial-Movahed/nuga-lib/features/keys"
+	"github.com/Danial-Movahed/nuga-lib/features/light"
+	"github.com/Danial-Movahed/nuga-lib/hid"
+	"github.com/Danial-Movahed/nuga-lib/internal/slices"
 )
 
 // Collect device state

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/mishamyrt/nuga-lib/features/keys/layout"
+	"github.com/Danial-Movahed/nuga-lib/features/keys/layout"
 )
 
 // Print keycodes with known actions

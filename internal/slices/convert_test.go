@@ -1,9 +1,10 @@
 package slices_test
 
 import (
-	"github.com/mishamyrt/nuga-lib/internal/slices"
 	"reflect"
 	"testing"
+
+	"github.com/Danial-Movahed/nuga-lib/internal/slices"
 )
 
 // TestCastIntToFloat32 tests the Cast function with int to float32 conversion

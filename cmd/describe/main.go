@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mishamyrt/nuga-lib"
+	"github.com/Danial-Movahed/nuga-lib"
 )
 
 func collectFeatures(c *nuga.Capability) []string {

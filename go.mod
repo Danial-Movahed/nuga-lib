@@ -1,4 +1,4 @@
-module github.com/mishamyrt/nuga-lib
+module github.com/Danial-Movahed/nuga-lib
 
 go 1.20
 

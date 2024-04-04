@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mishamyrt/nuga-lib/cmd/keycodes/annotation"
-	"github.com/mishamyrt/nuga-lib/cmd/keycodes/keymap"
-	"github.com/mishamyrt/nuga-lib/dump"
-	"github.com/mishamyrt/nuga-lib/features/keys/layout"
+	"github.com/Danial-Movahed/nuga-lib/cmd/keycodes/annotation"
+	"github.com/Danial-Movahed/nuga-lib/cmd/keycodes/keymap"
+	"github.com/Danial-Movahed/nuga-lib/dump"
+	"github.com/Danial-Movahed/nuga-lib/features/keys/layout"
 )
 
 func main() {

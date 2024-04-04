@@ -3,8 +3,8 @@ package nuga_test
 import (
 	"testing"
 
-	"github.com/mishamyrt/nuga-lib"
-	"github.com/mishamyrt/nuga-lib/device"
+	"github.com/Danial-Movahed/nuga-lib"
+	"github.com/Danial-Movahed/nuga-lib/device"
 )
 
 func TestCapabilityHas(t *testing.T) {

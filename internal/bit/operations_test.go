@@ -3,7 +3,7 @@ package bit_test
 import (
 	"testing"
 
-	"github.com/mishamyrt/nuga-lib/internal/bit"
+	"github.com/Danial-Movahed/nuga-lib/internal/bit"
 )
 
 func TestCombine16(t *testing.T) {

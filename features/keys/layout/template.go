@@ -1,7 +1,7 @@
 // Package layout provides helpers for working with keys layout
 package layout
 
-import "github.com/mishamyrt/nuga-lib/device"
+import "github.com/Danial-Movahed/nuga-lib/device"
 
 // Template represents keyboard layout template
 type Template map[KeyName]uint32

@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mishamyrt/nuga-lib"
-	"github.com/mishamyrt/nuga-lib/dump"
-	"github.com/mishamyrt/nuga-lib/hid"
+	"github.com/Danial-Movahed/nuga-lib"
+	"github.com/Danial-Movahed/nuga-lib/dump"
+	"github.com/Danial-Movahed/nuga-lib/hid"
 )
 
 const usage = "Usage: nuga-dump [restore|dump] <file_path>"

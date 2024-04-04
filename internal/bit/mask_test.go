@@ -1,8 +1,9 @@
 package bit_test
 
 import (
-	"github.com/mishamyrt/nuga-lib/internal/bit"
 	"testing"
+
+	"github.com/Danial-Movahed/nuga-lib/internal/bit"
 )
 
 const (

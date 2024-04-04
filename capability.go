@@ -1,8 +1,8 @@
 package nuga
 
 import (
-	"github.com/mishamyrt/nuga-lib/device"
-	"github.com/mishamyrt/nuga-lib/internal/bit"
+	"github.com/Danial-Movahed/nuga-lib/device"
+	"github.com/Danial-Movahed/nuga-lib/internal/bit"
 )
 
 // Capability represents supported keyboard features

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/mishamyrt/nuga-lib/hid"
+	"github.com/Danial-Movahed/nuga-lib/hid"
 )
 
 func TestTrimVendorPrefixValid(t *testing.T) {

@@ -1,10 +1,10 @@
 package dump
 
 import (
-	"github.com/mishamyrt/nuga-lib"
-	"github.com/mishamyrt/nuga-lib/features"
-	"github.com/mishamyrt/nuga-lib/features/keys"
-	"github.com/mishamyrt/nuga-lib/features/light"
+	"github.com/Danial-Movahed/nuga-lib"
+	"github.com/Danial-Movahed/nuga-lib/features"
+	"github.com/Danial-Movahed/nuga-lib/features/keys"
+	"github.com/Danial-Movahed/nuga-lib/features/light"
 )
 
 // OpenSimulation opens simulated keyboard

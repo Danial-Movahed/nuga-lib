@@ -3,8 +3,8 @@ package keys
 import (
 	"math"
 
-	"github.com/mishamyrt/nuga-lib/features/keys/layout"
-	"github.com/mishamyrt/nuga-lib/internal/bit"
+	"github.com/Danial-Movahed/nuga-lib/features/keys/layout"
+	"github.com/Danial-Movahed/nuga-lib/internal/bit"
 )
 
 // MacroEvent represents macro event

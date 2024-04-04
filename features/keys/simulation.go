@@ -1,8 +1,8 @@
 package keys
 
 import (
-	"github.com/mishamyrt/nuga-lib/device"
-	"github.com/mishamyrt/nuga-lib/features/keys/layout"
+	"github.com/Danial-Movahed/nuga-lib/device"
+	"github.com/Danial-Movahed/nuga-lib/features/keys/layout"
 )
 
 // State represents simulation data.

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/mishamyrt/nuga-lib/features/keys/layout"
+	"github.com/Danial-Movahed/nuga-lib/features/keys/layout"
 )
 
 func TestFromShortKeyCode(t *testing.T) {

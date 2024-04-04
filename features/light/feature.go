@@ -1,7 +1,7 @@
 package light
 
 import (
-	"github.com/mishamyrt/nuga-lib/hid"
+	"github.com/Danial-Movahed/nuga-lib/hid"
 )
 
 // Feature represents keyboard light feature

@@ -2,7 +2,7 @@ style: github
 template: CHANGELOG.tpl.md
 info:
   title: CHANGELOG
-  repository_url: https://github.com/mishamyrt/nuga-lib
+  repository_url: https://github.com/Danial-Movahed/nuga-lib
 options:
   commits:
     filters:

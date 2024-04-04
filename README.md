@@ -3,11 +3,11 @@
     <h3 align="center">Nuga library</h3>
     <p align="center">Go interface for BYK916 NuPhy® keyboards</p>
     <p align="center">
-        <a href="https://github.com/mishamyrt/nuga-lib/actions/workflows/quality-assurance.yaml">
-            <img src="https://github.com/mishamyrt/nuga-lib/actions/workflows/quality-assurance.yaml/badge.svg" />
+        <a href="https://github.com/Danial-Movahed/nuga-lib/actions/workflows/quality-assurance.yaml">
+            <img src="https://github.com/Danial-Movahed/nuga-lib/actions/workflows/quality-assurance.yaml/badge.svg" />
         </a>
-        <a href="https://github.com/mishamyrt/nuga-lib/tags">
-            <img src="https://img.shields.io/github/v/tag/mishamyrt/nuga-lib?sort=semver" />
+        <a href="https://github.com/Danial-Movahed/nuga-lib/tags">
+            <img src="https://img.shields.io/github/v/tag/Danial-Movahed/nuga-lib?sort=semver" />
         </a>
     </p>
 </p>
@@ -21,7 +21,7 @@ This library provides the ability to control keyboard parameters through the HID
 First of all, add a library module to your project.
 
 ```sh
-go get -u github.com/mishamyrt/nuga-lib@latest
+go get -u github.com/Danial-Movahed/nuga-lib@latest
 ```
 
 Use the `nuga.Open()` method to get the keyboard controller. It allows you to control the keyboard. For example, the brightness can be changed.
@@ -30,19 +30,19 @@ Use the `nuga.Open()` method to get the keyboard controller. It allows you to co
 package main
 
 import (
-	"github.com/mishamyrt/nuga-lib"
+    "github.com/Danial-Movahed/nuga-lib"
 )
 
 func main() {
     // Setup HID
     nuga.Init()
-	defer nuga.Exit()
-	// Open connection with keyboard
-	device, _ := nuga.Open()
-	// Read current effects
-	effects, _ := device.Features.Light.GetEffects()
-	// Set brightness to 50%
-	effects.Backlight.SetBrightness(2)
+    defer nuga.Exit()
+    // Open connection with keyboard
+    device, _ := nuga.Open()
+    // Read current effects
+    effects, _ := device.Features.Light.GetEffects()
+    // Set brightness to 50%
+    effects.Backlight.SetBrightness(2)
 }
 ```
 

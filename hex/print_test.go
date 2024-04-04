@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/mishamyrt/nuga-lib/hex"
+	"github.com/Danial-Movahed/nuga-lib/hex"
 )
 
 func TestPrintBytes(t *testing.T) {
